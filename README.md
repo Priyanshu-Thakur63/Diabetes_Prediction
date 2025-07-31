@@ -1,6 +1,6 @@
 # Diabetes_Prediction
 
-🩺 Diabetes Prediction using K-Nearest Neighbors (KNN)
+🩺 Diabetes Prediction using K-Nearest Neighbors ( KNN )
 A simple yet effective machine learning project that uses the Pima Indians Diabetes Dataset to predict whether a patient is likely to have diabetes based on diagnostic health measurements. The model is built using the K-Nearest Neighbors (KNN) algorithm, which is ideal for small to medium-sized classification tasks.
 
 📌 Project Overview
